@@ -1,2 +1,5 @@
 seaborn
-altair
+streamlit
+folium
+sqlalchemy
+streamlit_folium
